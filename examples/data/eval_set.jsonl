@@ -1,0 +1,4 @@
+{"id": "reset-how", "question": "How do I reset the Acme Widget?", "expected_contains": ["ten seconds"], "expected_cited_ids": ["d1"]}
+{"id": "battery-charge-time", "question": "How long does the battery take to charge?", "expected_contains": ["ninety minutes"], "expected_cited_ids": ["d2"]}
+{"id": "nebula-drone-colors", "question": "What color options does the Nebula Drone come in?", "expect_abstain": true}
+{"id": "warranty-coverage", "question": "What does the warranty cover?", "expected_contains": ["two years"], "expected_cited_ids": ["d3"]}

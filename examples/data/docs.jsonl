@@ -1,0 +1,4 @@
+{"id": "d1", "text": "Acme Widget reset procedure: hold the power button for ten seconds until the status light blinks amber, then release. The widget restarts with factory network settings."}
+{"id": "d2", "text": "Acme Widget battery: the 4000 mAh cell charges over USB-C and reaches a full charge in about ninety minutes. Avoid third-party fast chargers."}
+{"id": "d3", "text": "Acme Widget warranty covers manufacturing defects for two years from the purchase date. Accidental damage is not covered."}
+{"id": "d4", "text": "The Acme Widget companion app pairs over Bluetooth and requires location permission on Android. iOS pairing needs Bluetooth enabled in Settings."}

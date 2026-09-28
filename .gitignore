@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Indexes and reports built by demos
+.ragtrust-index/
+*.ragtrust-report.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
