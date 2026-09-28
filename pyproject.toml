@@ -37,3 +37,6 @@ include = ["ragtrust*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+
+[project.urls]
+Repository = "https://github.com/HimanshuSingh0495/ragtrust"
